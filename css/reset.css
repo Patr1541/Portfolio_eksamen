@@ -1,8 +1,6 @@
-/*SHORT RESET........*/
-
 /*RESET FRA TIDLIGERE OPGAVE*/
 
-/* @view-transition {
+@view-transition {
   navigation: auto;
 }
 
@@ -80,4 +78,3 @@ select,
   white-space: nowrap;
   clip-path: inset(100%);
 }
-  */
